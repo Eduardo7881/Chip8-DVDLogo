@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="caminho/para/sua/imagem.png" alt="DVD Logo Bouncing" />
+</p>
+
 # Chip8-DVDLogo
 
 Este projeto implementa uma imitação do clássico "símbolo de DVD" que bate nas bordas da tela, em um emulador CHIP-8, inspirado no comportamento que você já deve ter visto em telas de televisores antigos. É uma diversão simples, mas também uma ótima oportunidade de ver como o CHIP-8 funciona.
