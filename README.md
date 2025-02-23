@@ -7,6 +7,10 @@
 
 Este projeto implementa uma imitação do clássico "símbolo de DVD" que bate nas bordas da tela, em um emulador CHIP-8, inspirado no comportamento que você já deve ter visto em telas de televisores antigos. É uma diversão simples, mas também uma ótima oportunidade de ver como o CHIP-8 funciona.
 
+## ⚠️ Aviso:
+
+Quando for testar, por favor, baixe o .asm e o .ch8 pela Releases, porque o repositório contém arquivos da versão v1.1b
+
 ## 📝 Descrição
 
 A ideia por trás desse projeto é criar uma animação do logo de DVD (um retângulo simples com a logo dentro) que se move pela tela e "bate" nas bordas, fazendo a simulação de um movimento constante. O programa foi escrito em CHIP-8, que é uma linguagem de programação e um sistema de emulação bem simples, mas poderoso para fins educativos.
