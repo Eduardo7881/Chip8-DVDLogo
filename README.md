@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="caminho/para/sua/imagem.png" alt="DVD Logo Bouncing" />
+  <img src="https://raw.githubusercontent.com/Eduardo7881/Chip8-DVDLogo/refs/heads/main/imagens/view.jpg" alt="DVD Logo Bouncing" />
 </p>
 
 # Chip8-DVDLogo
