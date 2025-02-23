@@ -9,7 +9,7 @@ Este projeto implementa uma imitação do clássico "símbolo de DVD" que bate n
 
 ## ⚠️ Aviso:
 
-Quando for testar, por favor, baixe o .asm e o .ch8 pela Releases, porque o repositório contém arquivos da versão v1.1b
+Quando for testar, por favor, baixe o .asm e o .ch8 pela <a href="https://github.com/Eduardo7881/Chip8-DVDLogo/releases"> Releases</a>, porque o repositório contém arquivos da versão v1.1b
 
 ## 📝 Descrição
 
