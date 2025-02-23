@@ -40,7 +40,7 @@ Se você preferir rodar a versão compilada, basta executar o arquivo binário e
 
 ## ⚖️ Licença
 
-Este projeto é licenciado sob a Licença Pública Geral GNU (GPL) - veja o arquivo LICENSE para mais detalhes.
+Este projeto é licenciado sob a Licença Pública Geral GNU (GPL) - veja o arquivo <a href="https://raw.githubusercontent.com/Eduardo7881/Chip8-DVDLogo/refs/heads/main/LICENSE">LICENSE</a> para mais detalhes.
 
 ## 🤝 Contribuições
 
